@@ -5,7 +5,7 @@ This project presents an interactive Power BI dashboard based on Zomato’s rest
 ---
 
 ## 📁 File
-- `ZomatoDashboard.pbix`: Main Power BI dashboard file
+- `Zomato-Dashboard.pbix`: Main Power BI dashboard file
 
 ---
 
